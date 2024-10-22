@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://posenerva.github.io/posenerva.txt.gz
+Sitemap: https://posenerva.github.io/app/posenerva.txt.gz
+Sitemap: https://posenerva.github.io/assets/posenerva.txt.gz
+Sitemap: https://posenerva.github.io/css/posenerva.txt.gz
+Sitemap: https://posenerva.github.io/includes/posenerva.txt.gz
+Sitemap: https://posenerva.github.io/item/posenerva.txt.gz
+Sitemap: https://posenerva.github.io/src/posenerva.txt.gz
